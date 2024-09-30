@@ -67,3 +67,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 "# ClothX-Ecommerce-Laravel" 
 "# ClothX-Ecommerce-Laravel" 
 "# ClothX-Ecommerce-Larave" 
+"# ClothX-Ecommerce-Laravel" 
