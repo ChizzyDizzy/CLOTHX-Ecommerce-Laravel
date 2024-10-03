@@ -7,56 +7,54 @@ Efficient Product Management: Easily add, update, or delete products with an int
 Advanced Search: Filter products by categories, prices, and more.
 User Management: Secure user authentication with account management features.
 Order Processing: Simple checkout process and robust order tracking for customers.
+
 Features
+
 Product Listings: Beautifully designed product pages with quick-view options.
 Secure Payments: Integration with multiple payment gateways.
 Order Management: Admin panel for monitoring and processing customer orders.
 Promotions & Discounts: Add promotional codes, discounts, and offers to boost sales.
 User Reviews: Customers can leave feedback and rate products.
+
 Getting Started
+
 Prerequisites
+
 PHP >= 8.0
 Composer
 MySQL or any other supported database
 Laravel 8.x or above
+
 Installation
 Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/ChizzyDizzy/Clothx-Ecommerce-Laravel.git
+bash git clone https://github.com/ChizzyDizzy/Clothx-Ecommerce-Laravel.git
+
 Navigate to the project directory:
 
-bash
-Copy code
-cd Clothx-Ecommerce-Laravel
+bash cd Clothx-Ecommerce-Laravel
+
 Install dependencies:
 
-bash
-Copy code
-composer install
+bash composer install
+
 Copy the .env.example file to .env and configure your environment variables:
 
-bash
-Copy code
-cp .env.example .env
+bash cp .env.example .env
+
 Generate the application key:
 
-bash
-Copy code
-php artisan key:generate
+bash php artisan key:generate
+
 Run the migrations:
 
-bash
-Copy code
-php artisan migrate
+bash php artisan migrate
+
 Start the development server:
 
-bash
-Copy code
-php artisan serve
+bash php artisan serve
+
 Screenshots
-Add some screenshots here of your ClothX website to showcase your work.
 
 Contribution
 We welcome contributions to improve ClothX Ecommerce! Please check the Contribution Guide to get started.
