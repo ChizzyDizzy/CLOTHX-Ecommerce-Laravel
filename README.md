@@ -10,8 +10,8 @@ Order Processing: Simple checkout process and robust order tracking for customer
 
 
 
-Screenshots
-**Link to the report including the screenshots of the application ** :  https://github.com/ChizzyDizzy/ClothX-Ecommerce-Laravel/blob/main/SSP%202%20Report%20CB011568.pdf
+<h2>Screenshots
+**Link to the report including the screenshots of the application ** </h2>:  https://github.com/ChizzyDizzy/ClothX-Ecommerce-Laravel/blob/main/SSP%202%20Report%20CB011568.pdf
 
 
 Features
