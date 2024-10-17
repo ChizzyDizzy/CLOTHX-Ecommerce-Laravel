@@ -55,6 +55,7 @@ Start the development server:
 bash php artisan serve
 
 Screenshots
+**Link to the report including the screenshots of the application ** : 
 
 Contribution
 We welcome contributions to improve ClothX Ecommerce! Please check the Contribution Guide to get started.
