@@ -8,6 +8,12 @@ Advanced Search: Filter products by categories, prices, and more.
 User Management: Secure user authentication with account management features.
 Order Processing: Simple checkout process and robust order tracking for customers.
 
+
+
+Screenshots
+**Link to the report including the screenshots of the application ** :  https://github.com/ChizzyDizzy/ClothX-Ecommerce-Laravel/blob/main/SSP%202%20Report%20CB011568.pdf
+
+
 Features
 
 Product Listings: Beautifully designed product pages with quick-view options.
